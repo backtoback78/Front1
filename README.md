@@ -1,4 +1,5 @@
-Projet d'intégration effectué durant mes études à l'école multimédia
+<h2 align="center">Projet d'intégration effectué durant mes études à l'école multimédia</h2>
+
 
 
 ## Technologies
